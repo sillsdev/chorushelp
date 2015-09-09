@@ -1,0 +1,1 @@
+@rem Nothing to build. This file satisfies TeamCity's requirement for a "build step."
